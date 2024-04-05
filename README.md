@@ -1,4 +1,4 @@
-# T²Ai : Tool Tech AI
+# T2.ai (Tool Tech AI)
 This repo has been created to learn, use, and test several technology bricks related to AI (NLP, CV).
 
 ### Author:           Kunal Suri, Ph.D.
